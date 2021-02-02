@@ -3,11 +3,11 @@
     <ul>
       <li>
         <nuxt-link exact to="/">
-          <app-icon></app-icon>Название
+          <app-icon></app-icon>Essayfabric Essays and Homeworks
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/about">Инфо</nuxt-link>
+        <nuxt-link to="/about">About</nuxt-link>
       </li>
     </ul>
   </div>
