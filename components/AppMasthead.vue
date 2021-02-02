@@ -1,7 +1,6 @@
 <template>
   <section class="masthead">
     <h1>{{ tagline1 }}</h1>
-     <span>{{ tagline2 }}</span>
   </section>
 </template>
 
@@ -10,7 +9,6 @@ export default {
   data() {
     return {
       tagline1: "Essayfabric Essays and Homeworks",
-      tagline2: "Homework from Textbooks and free full College Essays Examples Online"
     };
   }
 };
