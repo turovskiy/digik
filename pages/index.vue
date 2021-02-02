@@ -12,23 +12,7 @@
           <a :href="`blog/${post.slug}`" class="readmore slide">Read more ⟶</a>
         </div>
       </main>
-     <!–– <aside>
-        <h2 class="tags-title">Tags</h2>
-        <div class="tags-list">
-          <ul>
-            <li
-              @click="updateTag(tag)"
-              v-for="tag in tags"
-              :key="tag.id"
-              :class="[tag.id === selectedTag ? activeClass : '']"
-            >
-              <a>{{ tag.name }}</a>
-              <span v-if="tag.id === selectedTag">✕</span>
-            </li>
-          </ul>
-        </div>
-      </aside>
-      -->
+     
     </div>
   </div>
 </template>
