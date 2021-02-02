@@ -40,7 +40,7 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/mountains-masthead.jpg") no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
+    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
   background: radial-gradient(
       ellipse at center,
       rgba(0, 0, 0, 0) 0%,
