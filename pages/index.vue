@@ -8,8 +8,7 @@
             <a :href="`blog/${post.slug}`">{{ post.title.rendered }}</a>
           </h3>
           <small>{{ post.date | dateformat }}</small>
-          <div v-html="post.excerpt.rendered"></div>
-          <a :href="`blog/${post.slug}`" class="readmore slide">Read more ⟶</a>
+          <div v-html="post.excerpt.rendered"></div>Подробней ⟶</a>
         </div>
       </main>
      
