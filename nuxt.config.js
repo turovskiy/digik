@@ -1,7 +1,7 @@
 import axios from "axios"
 let dynamicRoutes = () => {
   const routes = axios
-    .get("https://essayfabric.com/wp-json/wp/v2/posts?page=1&per_page=20")
+    .get("http://gpon.xnet.in.ua/wp-json/wp/v2/posts?page=1&per_page=20")
     .then(res => {
       return res.data.map(post => `/blog/${post.slug}`)
     })
@@ -37,7 +37,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: "#fff" },
+  loading: { color: "#6699cc" },
   /*
    ** Global CSS
    */
