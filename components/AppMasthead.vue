@@ -32,7 +32,7 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/mountains-masthead.jpg") no-repeat center center scroll; /* FF3.6-15 */
+    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* FF3.6-15 */
   background: -webkit-radial-gradient(
       center,
       ellipse cover,
@@ -47,7 +47,7 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/mountains-masthead.jpg") no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   background-size: cover;
   color: #333;
   h1 {
