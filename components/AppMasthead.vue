@@ -32,7 +32,7 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* FF3.6-15 */
+    url("/assayfabric.png") no-repeat center center scroll; /* FF3.6-15 */
   background: -webkit-radial-gradient(
       center,
       ellipse cover,
@@ -40,14 +40,14 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
+    url("/assayfabric.png") no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
   background: radial-gradient(
       ellipse at center,
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/maxresdefault (2).jpg") no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    url("/assayfabric.png") no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   background-size: cover;
   color: #333;
   h1 {
