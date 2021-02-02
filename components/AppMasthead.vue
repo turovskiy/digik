@@ -51,7 +51,7 @@ section.masthead {
   background-size: cover;
   color: #333;
   h1 {
-    color: white;
+    color: red;
     @include fluid-type(font-size, 320px, 1366px, 30px, 65px);
   }
 }
