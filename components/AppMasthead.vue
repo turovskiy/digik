@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      tagline1: "Essayfabric Essays and Homeworks",
+      tagline1: "tag line text h1",
     };
   }
 };
