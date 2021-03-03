@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      tagline1: "tag line text h1",
+      tagline1: "Server Side Rendering приложение",
     };
   }
 };
@@ -51,8 +51,8 @@ section.masthead {
   background-size: cover;
   color: #333;
   h1 {
-    color: red;
-    @include fluid-type(font-size, 320px, 1366px, 30px, 65px);
+    color: white;
+    @include fluid-type(font-size, 210px, 1366px, 30px, 65px);
   }
 }
 </style>
