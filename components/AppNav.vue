@@ -9,6 +9,9 @@
       <li>
         <nuxt-link to="/about">Page1</nuxt-link>
       </li>
+       <li>
+         <nuxt-link to="/faq">Page2</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>
