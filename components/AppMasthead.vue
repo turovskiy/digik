@@ -1,6 +1,9 @@
 <template>
   <section class="masthead">
     <h1>{{ tagline1 }}</h1>
+<h5>
+{{msgBox}}
+</h5>
   </section>
 </template>
 
@@ -9,6 +12,7 @@ export default {
   data() {
     return {
       tagline1: "Server Side Rendering приложение",
+       msbBox: "Promotion sales",
     };
   }
 };
