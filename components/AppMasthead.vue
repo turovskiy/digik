@@ -10,7 +10,7 @@ export default {
   data() {
     return {
       tagline1: "Server Side Rendering приложение",
-       msbBox: "Promotion sales",
+       msgBox: "Promotion sales",
     };
   }
 };
