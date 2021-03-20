@@ -1,9 +1,7 @@
 <template>
   <section class="masthead">
     <h1>{{ tagline1 }}</h1>
-<h5>
-{{msgBox}}
-</h5>
+    <h5>{{msgBox}}</h5>
   </section>
 </template>
 
